@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hitron Technologies Inc.
+- 🔭 I’m currently working on Plume Design Inc.
 - 😈 I'm good at Embedded Linux: MESH network, 802.11, driver, programing...
 - 👄 I'm good at IoT: MCU, MQTT, WEBSOCKET, Protobuf...
 - 🌱 I’m currently learning Rust, ESP32..
